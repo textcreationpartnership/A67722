@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coffee-house dialogue, or, A discourse between Captain Y--- and a young barrester of the Middle-Temple with some reflections upon the bill against the D. of Y.</title>
+            <author>Yarranton, Andrew, 1616-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67722</idno>
+            <idno type="STC">Wing Y10</idno>
+            <idno type="STC">ESTC R15734</idno>
+            <idno type="EEBO-CITATION">13031361</idno>
+            <idno type="OCLC">ocm 13031361</idno>
+            <idno type="VID">96746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 403:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coffee-house dialogue, or, A discourse between Captain Y--- and a young barrester of the Middle-Temple with some reflections upon the bill against the D. of Y.</title>
+                  <author>Yarranton, Andrew, 1616-1684.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Andrew Yarranton. Cf. BM.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:96746:1"/>
+            <pb facs="tcp:96746:1" rendition="simple:additions"/>
+            <head>A Coffee-Houſe DIALOGUE: OR A <hi>Diſcourſe</hi> between Captain. <hi>Y</hi>— and a Young <hi>Barreſter</hi> of the <hi>Middle-Temple;</hi> With Some REFLECTIONS upon the <hi>BILL</hi> againſt the <hi>D.</hi> of <hi>Y.</hi>
+            </head>
+            <sp>
+               <speaker>Capt.</speaker>
+               <p>A Young Lawyer come amongſt us! perhaps you may learn ſomething; I have been telling theſe young Gentlemen you ſee with my by what means I could make this Kingdom the moſt Flouriſhing Kingdom in the whole World.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I am ſotry I am come to late to hear how ſo good an Effect might be ſo eaſily wrought.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Nay Sir, you are not come too late, for I can (without any wearineſs) ſit here to tell it all day long, I ſo greatly deſire the Publick Good. In ſhort Sir, what I have been ſaying is this; I can plainly demonſtrate how we may beat the <hi>Dutch</hi> without fighting, pay Debts with<g ref="char:EOLhyphen"/>out Money, make all the Streets in <hi>London</hi> Navigable Rivers, harbour all the King's Great Ships upon the top of an Hill, where they ſhall be ſecured from Wind and Weather, and from an hundred other Accidents they are elſe obnoxious to. All or moſt of this you may ſee printed in a Book of mine, which I know you Lawyers are againſt, becauſe it likewiſe main<g ref="char:EOLhyphen"/>tains a Regiſter, which ſpoils your Trade; but to be Friends with you, though I have undone you in the Firſt Part, I have a Second Part waiting at the Preſs, that will maintain you all ſumptuouſly, if there were ten times as many more as there are; what ſay you to all this young Lawyer, Ha?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I ſay you have out ſtripp'd all the Poets that ever wrote and that 'tis pity the King and Council ſhould have no more regard to your Perſon and Diſcourſes, than wiſe men have for <hi>Mountebanks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Sir the Reaſon's plain why they mind the Improvement of the Nation no more; heark you, the Great ones have another ſort of Game to play; — no more of that— you underſtand me.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Not I, I profeſs; I cannot be reconcil'd to half a Sentence join'd with a little puſh, a wink, a nod, a ſmile, or a Finger held up to the Noſe; I have hated thoſe ſort of tricks, ever ſince I've read my Lord <hi>Bacon's Eſſays,</hi> where, under the Title of ſeeming wiſe, (he ſaith) ſuch perſons help themſelves with Countenance and Geſture, and are wiſe by ſigns, and when they know within themſelves, they ſpeak of that they do not well know, would nevertheleſs ſeem to others to know of that which they may not well ſpeak. Therefore Sir, if you would do any good upon me, you muſt ſpeak, and not leave me to conjecture what you can ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Pſha! I ſee you do not know the World: pray read this Paper.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>A Club to conſiſt of threeſcore Lords and Genletmen. <hi>Imprimis,</hi> They ſhall be called <hi>the Improvers of</hi> England. <hi>Item,</hi> They ſhall meet twice in the week. <hi>Item.</hi> They ſhall have pro<g ref="char:EOLhyphen"/>vided for them a pennyworth of Cheeſe, Bread, Beer and Muſtard. A brave Treat for Lords
+<pb n="2" facs="tcp:96746:2"/>I confeſs! I'le read no more, unleſs you tell me how this Paper is pertinent to our former Diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>This is to ſatisfie you, that I am not only one that ſeem wiſe; for I was Chair-man of the Club, and I tell you, there were ſome there under my Inſtructions, would have baf<g ref="char:EOLhyphen"/>fled all the Coiſe; therefore whate're you may think on me, you ſee ſome Ingenious Gentle<g ref="char:EOLhyphen"/>men have thought me fit to be their Inſtructor.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>That any Ingenious man deſired you to be Chair-man, is more than I know, or ever heard on before; But pray Sir no more of that! Tell me what you mean by ſaying <hi>The Great Ones have another Game to play.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>You will underſtand it too ſoon, I am ſure I foreſaw what's now coming upon us, be<g ref="char:EOLhyphen"/>fore you was born.— We are a loſt People — a loſt People! An undone Nation, An un<g ref="char:EOLhyphen"/>done Nation!</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Still more Riddles! Good Captain what's the matter? What's the City on Fire at one end, and are they cutting Throats at the other?</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>You may ſport at theſe things, you are but a young man, and cannot ſee ſo far as I do: that Prieſt yonder, can tell you, 'twill not be long before you muſt burn, unleſs you are reſolved (as he is) to turn.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Do you know that Gentleman?</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>No, I never ſaw the man before.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>How can you pretend to be acquainted with his Reſolves?</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>What do you talk of pretend? pray who does not know that all the Clergy of the Church of <hi>England</hi> (as you phraſe it) are a Pack of — I know what?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>What do you mean by <hi>I know what?</hi> for my part I am very well ſatisfied, if you did know what they were, you would ſpeak of them with as much Reverence, as you do Detraction.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Pſha! I tell you they are all a parcel of Self-intereſted Fellows, and Papiſts in their Hearts.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I perceive you are ſuch an Enemy to Prerogative, that you'l encroach even upon the Al<g ref="char:EOLhyphen"/>mighty's, and not ſuffer him to monopolize the knowledge of Hearts; but how ignorant, as well as impious this Affirmation is, will appear: for how can they be ſelf-intereſted, and for Popery? for if that comes in, there will a great many come to ſhare with them in their Spi<g ref="char:EOLhyphen"/>ritual Livings.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>You are a young man, and run too faſt; for any one knows, if Popery gets once the upper hand, all the Lands taken from the Church in <hi>H.</hi> 8. time will be reſtored again; though ſome therefore doe come to ſhare with them, yet their Advantages will be much greater.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>You may as well ſay every private mans Eſtate will be taken from him, and given to the Church; for no man holds any Eſtate by a ſtronger Title, than the Purchaſers of Church-lands hold thoſe Lands: for firſt they were ſold by Act of Parliament, and in Queen <hi>Maries</hi> Days inſtead of abrogating that Act, it was corroborated by another, to which the conſent of his Ho<g ref="char:EOLhyphen"/>lineſs was given; and if this be not Security ſtrong enough, I'le be content (though I confeſs 'twill be a great puniſhment) to write in Vindication of a Regiſter. But Sir, to let this Slip of yours paſs, pray inſtruct me for what reaſon our worthy Divines ſtand condemn'd in your Judgment, for Papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>For what Reaſons? Why, don't all the World know they are againſt Bringing in the Bill, <hi>&amp;c.</hi> and that they openly pray for the Duke?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Is this all?</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>All! Ay and enough too.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I am ſorry to ſee you thus hurried on by a blind Zeal; for why ſhould they not pray for his Highneſs? Let him be good or bad, their Prayers are neceſſary; if good, that he may be ſo preſerved, if bad, that he may be reclaim'd and converted.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>I ſhall not ſo much inſiſt upon this; but as to the other Points, I mean the Bill: I have a Paper in my Pocket will confound all your Divines, and all your Lawyers put together; here, do but read, and you'l be convinced.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>What, it's Intituled <hi>A Word without Doors?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>The ſame.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I have read him already; but for my part, I neither approve of the Man, nor his Reaſons.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Not the Man! Why you don't know who 'tis.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But I know he fails in his Morals, by injuriouſly calumniating both His Majeſty, and all the Worthy Clergy of our Church: for <hi>Pag.</hi> 3. he tells you, 'tis the conſtant Practice of Church-men to debauch young Gentlemen with ill Principles: and, the Epiſcopal Sees, Dean<g ref="char:EOLhyphen"/>ries, <hi>&amp;c.</hi> were the certain and conſtant Rewards of ſuch Services: ſuch Superlative Impudence ought to be quell'd, not with a Pen, but with the Magiſtrates Sword. However, this is to be
+<pb n="3" facs="tcp:96746:2"/>ſaid in alleviation of his Fault, what he has ſpoke, is ſo groſly falſe, that no one (in their Wits) will believe him.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Pray let this alone, come to his Reaſons; methinks you do not care to meddle with them.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I will ſhew you, there is not one thing, in the whole Pamphlet, worthy the name of a Reaſon: For as to the firſt and laſt poſition, which he ſo much endeavours to refute (and God knows does it boldly enough) there is no need of them to maintain this Cauſe, ſo that the four firſt Pages and the four laſt, (which the Gentleman is pleaſed to give us <hi>ex abundanti</hi>) con<g ref="char:EOLhyphen"/>tains only a parcel of inſignificant Stuff. As for his Inſtance of <hi>Reboboam,</hi> that God ſaid This thing was of Him, what then? Therefore he approved of the Action of the Rebels. This looks like the Logick of one that rails at the Univerſity. <hi>Is there any Evil in the City, and I have not done it,</hi> ſaith the Lord; <hi>Ergo</hi> he approves of the afflicting Inſtruments. He hardned <hi>Pharoah</hi>'s Heart, that he might not let the Children of <hi>Iſrael</hi> go; <hi>ergo</hi> he was pleaſed with <hi>Pha<g ref="char:EOLhyphen"/>roah</hi> for keeping them. A brave Divine! Indeed the Church of <hi>England</hi> men and he do differ on Opinion.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Well, but he hath other Inſtances.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I tell you Sir, they are all impertinent; for he hath neither proved his Caſes to be paral<g ref="char:EOLhyphen"/>lel to ours, nor that the Actors did what they did juſtly; the queſtion between us, is not only what hath, and what may be done; but what hath juſtly, and may juſtly be done; for unleſs he will argue, Every thing that hath been done, hath been juſtly done (which is like his Lo<g ref="char:EOLhyphen"/>gick) he hath ſaid nothing to the purpoſe. When he can prove that <hi>William</hi> and <hi>Henry</hi> did juſtly exclude <hi>Rob.</hi> who was their right and true King <hi>de Jure,</hi> he will ſpeak to the Point: But pray obſerve his Reaſon why <hi>Rob.</hi> was put by; becauſe <hi>William</hi> was not an honeſt man, not becauſe <hi>Rob.</hi> was diſhoneſt. What think you, is not this a brave Fellow to be in Print? I ſo much inſiſt Sir, upon this Term <hi>juſtly;</hi> becauſe the Supreme Authority may chance to do ſomething unjuſt: (elſe inſtead of Deſtroying, he'l Make. Popes) for they may do ſomething againſt the Divine Law. But to be ſhort, what think you of <hi>Strafford's</hi> Caſe? I hope we all know that Act of Parliament was ſufficiently repented of, becauſe 'twas unjuſt. Let us ſee then how it ſuits with our Caſe; <hi>Strafford</hi> received a more ſevere puniſhment by that Act, than the Laws of the Realm had provided for ſuch Offences; this was all, and here lay the injuſtice of the Act. If this Bill had paſs'd, the <hi>D.</hi> had receiv'd more ſevere Puniſhment for his Faults, than the Laws of the Realm have provided in ſuch Caſes; either therefore, that Act was juſt, or this Bill unjuſt. <hi>In Triceſimo Quinto</hi> of the Queen it is with good reaſon provided, if any made open Submiſſion and, Declaration of his or their Conformity, that then they ſhall be diſcharged, of and from all and every the Penalties and Puniſhments inflict<g ref="char:EOLhyphen"/>ed. Now ſuppoſe the D. ſhould conform: if this Bill had paſs'd, it had nothing availed him; and though the meaneſt Subject in the Kingdom might have taken Advantage by his Confor<g ref="char:EOLhyphen"/>mity, yet the D. could not; a moſt unreaſonable thing. Now upon the whole matter I ap<g ref="char:EOLhyphen"/>peal to any impartial man, whether this Argument will not hold: All Subjects ought in rea<g ref="char:EOLhyphen"/>ſon and juſtice to bear equal Puniſhment for equal Faults. But if the Bill had paſs'd, the D. had had a more ſevere Puniſhment than any other Subject for the ſame Fault; Therefore, <hi>&amp;c.</hi> We have hitherto taken it for granted the D. is a Papiſt, but now let us ſee whether the Par<g ref="char:EOLhyphen"/>liament could juſtly (when the Bill was brought) take notice of him as ſuch; I demand therefore, Had he been legally convicted of Popery?</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>I cannot ſay that.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Why then, every man is ſuppoſed innocent, till he be Tryed, and proved Guilty; and I believe all people will agree to this Argument, That 'tis highly unjuſt to Condemn any man unheard; but if this Bill had paſſed, the D. had been Condemned unheard; therefore he had been unjuſtly Condemned. 'Tis certain by the ſame Reaſon and Juſtice, they may make a Law to Condemn one man unheard, they may make a Law to Condemn all men unheard; and how would you like ſuch a Law?</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>I perceive you conclude the Duke to be guilty of no other Fault but Popery; but alas! we all know there are a great many other Offences laid to his Charge, and things of a high Nature too— but no more of that.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Now are we to believe you have a thundering Reſerve, when in truth you do not know ſo much as you have ſpoke. Suppoſe him Sir, to be Actor of the moſt and great<g ref="char:EOLhyphen"/>eſt Crimes that ever mortal man was; let him (without Favour) be charged with them all; but let him be ſummon'd to make his Defence, and then from what Imputation he cannot clear himſelf, let him ſuffer for it according to the Laws in ſuch Caſes: But that there ſhould be new Laws made to puniſh His particular Perſon only, or that he ſhould be condemn'd
+<pb n="4" facs="tcp:96746:3"/>unheard, are things I will maintain (againſt you and all the Fanatick Crew) to be Diſſenta<g ref="char:EOLhyphen"/>neous both to right Reaſon and Juſtice.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Talk what you will, I cannot believe but that the Parliament may lay the next Heir aſide: for what if he ſhould be a Fool, or a Mad-man; muſt we be govern'd by him?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I begin now to be weary with your Impertinence. Pray, who does not know 'tis every man's Fate (according to Law and Reaſon) that is an Ideot, or Mad-man to loſe the Government of his Inheritance, and this rather fortifies than exonerates what <hi>I</hi> have ſaid: That Juſtice muſt be alike to all Subjects. Therefore <hi>I</hi> hope <hi>I</hi> have fully evinc'd, that though the Divines are againſt the Bill, (which is more than either you or <hi>I</hi> know) they are not for that blame-worthy.</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Nay, talk as long as you will, I ſhall ſtill be of the ſame mind.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Well, I ſee you are an obſtinate, prejudic'd Man, therefore I'le take my Leave.</p>
+            </sp>
+            <closer>
+               <signed>Farewell.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96746:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
